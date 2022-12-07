@@ -1,0 +1,8 @@
+
+|	java:S116
+"`Rename this field "GRAVITATIONALCONSTANT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıò®°8…ÓôÍÎ0
+>
+java:S1170
+"!Make this final field static too.(ıò®°8ÓôÍÎ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Óß¢¹ÿÿÿÿÿ8¦ÓôÍÎ0
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(©‰›á8¦ÓôÍÎ0

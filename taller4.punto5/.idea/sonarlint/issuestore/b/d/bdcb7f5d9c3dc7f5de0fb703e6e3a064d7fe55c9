@@ -1,0 +1,4 @@
+
+b	java:S107C"AConstructor has 9 parameters, which is greater than 7 authorized.(ƒù­ˆúÿÿÿÿ8ïè³ÎÎ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ÿ¿›
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸‰•îýÿÿÿÿ8ÿè³ÎÎ0
