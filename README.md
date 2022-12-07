@@ -2,7 +2,7 @@
 
 Buenas prácticas de POO y manejo de exccepciones. 
 
-# Componente practico
+# Componente práctico
 
 En la siguiente lista de ejercicios realice de forma individual cada uno de ellas. Cada ejercicio se debe entregar en un unico repositorio de Git, separe cada ejercicio en subcarpetas. 
 1. Desarrolle una clase en Java que realice la abstracción de un sistema planetario, debiendo tener en cuenta para cada cuerpo del sistema aspectos como: masa, densidad, diámetro, distancia al sol (suponga órbitas circulares), un número de identificador único y un nombre textual. Incluya métodos que calculen la atracción gravitatoria entre dos cuerpos cualesquiera del sistema.
